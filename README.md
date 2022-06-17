@@ -6,6 +6,5 @@ This app will show the top headlines with each headlines in detail. Fetching the
 
 
 
-![Phone Screenshot 3](https://user-images.githubusercontent.com/101714917/174407470-1dba0813-041e-4a52-b04f-90e417aedd52.jpg)![Phone Screenshot 4](https://user-images.githubusercontent.com/101714917/174407493-ff8ea151-3706-4bf6-962d-0d821fa817b4.jpg)![Phone Screenshot 5](https://user-images.githubusercontent.com/101714917/174407500-bd444819-426c-462f-a99c-0702ff792d3d.jpg)
 
-
+<img width="200" alt="Phone Screenshot 3aa" src="https://user-images.githubusercontent.com/101714917/174407855-de929ae4-5a68-4072-91f2-4c120575f9a3.png"><img width="200" alt="Phone Screenshot 4aa" src="https://user-images.githubusercontent.com/101714917/174407862-a97387ba-8f2e-4797-9e0d-458a3a0a9bdf.png"><img width="200" alt="Phone Screenshot 5aa" src="https://user-images.githubusercontent.com/101714917/174407871-fb680e15-035b-4a0c-8182-1dbf1705f6cf.png">
